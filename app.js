@@ -5,12 +5,14 @@ console.log(
 
 // Exercise 1
 
-let lastName = "Knelle";
-var age = 25;
+let lastName;
+var age;
 
 // Exercise 2
 
 const firstName = "Kenton";
+lastName = "Knelle";
+age = 25;
 
 
 // Exercise 3
